@@ -1,0 +1,13 @@
+{
+    "requires": false,
+    "description": "een project van mij, jasper, glenn, jordy en geert",
+    "license": "UNLICENSED",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/JasperdeKlijn/g-js-project.git"
+    },
+    "lockfileVersion": 1,
+    "dependencies": {
+        "vue": "^2.6.11"
+    }
+}
